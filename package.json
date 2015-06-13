@@ -1,8 +1,10 @@
 {
-    "name": "SnakeJS",
-    "version": "0.0.1",
-    "devDependencies": {
-        "mocha": "*",
-        "chai" : "*"
-    }
+  "name": "snake-js",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "chai": "*",
+    "jquery": "^2.1.4",
+    "mocha": "*"
+  }
 }
