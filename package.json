@@ -6,5 +6,8 @@
     "chai": "*",
     "jquery": "^2.1.4",
     "mocha": "*"
+  },
+  "scripts": {
+    "preinstall": "npm i -g mocha-phantomjs"
   }
 }
