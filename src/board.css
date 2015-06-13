@@ -1,0 +1,11 @@
+#board .field {
+  width: 5px;
+  height: 5px;
+  background: #ddd;
+  margin: 1px;
+  float: left;
+}
+
+#board .clearer {
+  clear: both;
+}
